@@ -1,0 +1,30 @@
+.container {
+    font-size: 20px;
+    font-weight: bold;
+    width: 100%;
+}
+
+button {
+    background-color:teal;
+    color: black;
+    margin: 10px;
+}
+
+#addButton {
+    background-color:white;
+}
+
+#gif-form {
+    float:right;
+}
+
+#gifsView {
+
+    float:left;
+    width: 50%;
+}
+
+.gifDiv {
+
+    float:left;
+}
